@@ -1,10 +1,11 @@
+[![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1694649600&v=beta&t=-wOqxUul4z7IjhJwrBC_Ih_ma-42j49kNBovacvn-I4)
+
+
 <h1 align="center">Hi 👋, I'm Harshita Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt='coding' width='400'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitajain212&label=Profile%20views&color=0e75b6&style=flat" alt="harshitajain212" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitajain212" alt="harshitajain212" /></a> </p>
 
 - 🔭 I’m currently working on [Temperature Converter](https://github.com/harshitajain212/temperatureconverter)
 
@@ -28,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitajain212&show_icons=true&locale=en" alt="harshitajain212" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitajain212&" alt="harshitajain212" /></p>
+
