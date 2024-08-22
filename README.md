@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harshiksv@gmail.com**
 
-- 📄 Know about my experiences [https://acesse.one/jiT6c](https://acesse.one/jiT6c)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1_VQrtotcMjpxLvJ8OpgGAl3PrtQ2ohD4](https://drive.google.com/drive/folders/1_VQrtotcMjpxLvJ8OpgGAl3PrtQ2ohD4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
